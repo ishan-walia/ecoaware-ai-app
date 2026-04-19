@@ -28,4 +28,32 @@ EcoAware AI is a domain-specific Generative AI mobile application designed to pr
 - Delete previous chats
 
 ---
+## 🧠 Technology Stack
 
+- **Frontend:** Flutter (Dart)
+- **Backend:** API Integration
+- **AI APIs:** OpenAI / Google Gemini
+- **Database:** Firebase Firestore
+- **Cloud:** Firebase Services
+- **Voice:** Speech-to-Text & Text-to-Speech
+
+---
+
+## 📊 System Flow
+
+User Input → Mobile App → API Request → AI Model → Response → Display to User
+
+---
+
+## 📸 App Screenshots
+
+(Add your app screenshots here)
+
+---
+
+## 📦 Download APK
+
+👉 Download the latest version from:
+[Releases Section](https://github.com/ishan-walia/ecoaware-ai-app/releases)
+
+---
