@@ -49,6 +49,7 @@ User Input → Mobile App → API Request → AI Model → Response → Display 
 
 (Add your app screenshots here)
 
+<img src="https://github.com/ishan-walia/ecoaware-ai-app/blob/main/Photo/Screenshot%202026-04-19%20182634.png">
 ---
 
 ## 📦 Download APK
