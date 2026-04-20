@@ -56,6 +56,7 @@ User Input → Mobile App → API Request → AI Model → Response → Display 
 <img src="https://github.com/ishan-walia/ecoaware-ai-app/blob/main/Photo/Screenshot 2026-04-19 175712.png" height="620px">
 <img src="https://github.com/ishan-walia/ecoaware-ai-app/blob/main/Photo/Screenshot 2026-04-19 175907.png" height="620px">
 <img src="https://github.com/ishan-walia/ecoaware-ai-app/blob/main/Photo/Screenshot 2026-04-19 180032.png" height="620px">
+<img src="https://github.com/ishan-walia/ecoaware-ai-app/blob/main/Photo/Screenshot 2026-04-19 180055.png" height="620px">
 </p>
 ---
 
