@@ -31,8 +31,8 @@ class _HomeScreenState extends State<HomeScreen> {
   bool isLoading = true;
   String lastUpdated = "";
 
-  final String weatherApiKey = "1d9b3c4a9c46b59a751062045edf9308";
-  final String newsApiKey = "7a8c4a96fbf04da9be87dc9dc0419116";
+  final String weatherApiKey = "";
+  final String newsApiKey = "";
 
   final PageController newsController = PageController();
   Timer? autoScrollTimer;
