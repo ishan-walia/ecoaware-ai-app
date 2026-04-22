@@ -1,0 +1,59 @@
+name: ecoaware_ai
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+  flutter_tts: ^3.8.5
+  speech_to_text: ^7.0.0
+  image_picker: ^1.0.7
+  lottie: ^3.1.0
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.0
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.30.0
+  cloud_firestore: ^4.15.0
+  dropdown_search: ^5.0.6
+  firebase_auth: ^4.16.0
+  google_sign_in: ^6.2.1
+  google_mlkit_object_detection: ^0.11.0
+  google_maps_flutter: ^2.5.0
+  flutter_local_notifications: ^17.0.0
+  geolocator: ^10.1.0
+  fl_chart: ^0.68.0
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - lib/assets/animations/enviromental_problems_blue.json
+    - lib/assets/animations/Girl watering plants animation.json
+    - lib/assets/animations/AI bot.json
+    - lib/assets/animations/Greenify the Earth.json
+    - lib/assets/animations/Globe.json
+    - lib/assets/animations/environmental_waste.json
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: lib/assets/images/evaai.jpg
+
